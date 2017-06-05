@@ -1,0 +1,52 @@
+---
+title: "Utilobot"
+layout: post
+date: 2017-02-23
+tag: 
+- Python
+- Chatbot
+image: /assets/images/Projects/utilobot.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A multi utility telegram chatbot"
+category: project
+author: defcon
+externalLink: false
+---
+
+Utilo is a one stop solution to a number of problems we face in day to day life. For example, Downloading a youtube video, being up to date with a facebook page or twitter handle etc. Utilo uses telegram to communicate with the users. It is a Utility bot which works on telegram. Utilo has a lot of useful functions : 
+
+1. File URL generator
+2. Youtube download and search 
+3. Facebook and twitter subscription 
+4. If you want to send someone an E-mail without using your E-mail id Utilo can help you in that too. 
+5. If you feel bored Utilo can also entertain you with hilarious random Chuck Norris jokes.
+
+**This project also won 3rd place in DigitalOcean CloudHack's online edition !** 
+
+***
+
+## Screeshots
+
+### Using youtube search 
+![demo](http://i.imgur.com/WhZqPiq.gif)
+
+### Using youtube download
+<img src = "http://i.imgur.com/BzHMyp8.png" height="600" width="374">
+
+### Using file link generators
+<img src = "http://i.imgur.com/rxXnQ47.png" height="600" width="374">
+<img src = "http://i.imgur.com/33et3QM.png" height="600" width="374">
+<img src = "http://i.imgur.com/PxuyCJe.png" height="600" width="374">
+
+### Getting Jokes 
+<img src = "http://i.imgur.com/SjcsCQz.png" height="600" width="374">
+
+### Sending Mail 
+<img src = "http://i.imgur.com/lBUXNIF.png" height="600" width="374">
+
+---
+
+Check it out [here](https://github.com/defcon-007/Utilobot) .
+If you need some help, just [tell me](https://github.com/defcon-007/Utilobot/issues).

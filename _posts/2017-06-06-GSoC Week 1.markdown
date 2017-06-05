@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 1"
+layout: post
+date: 2017-06-06
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-1-157264c010b7
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

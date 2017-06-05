@@ -4,21 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi! I am Ayush Goyal, a third year undergraduate student of the department of <a target="_blank" href="http://www.agri.iitkgp.ernet.in">Agricultural and Food Engineering</a> at <a target="_blank" href="https://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I love to get my hands dirty with python, I also enjoying making android apps and listening to music.</p>
 
-<h2>Skills</h2>
+<p>I am also selected as <bold>Google Summer of Code - 2017</bold> student with <a target="_blank" href="http://openmrs.org">OpenMRS</a> orgaisation. I will be working on the <a href="https://summerofcode.withgoogle.com/projects/#4561348015947776" target="_blank">Android Client project</a>.</p>
+
+<p>I am Executive Head - Projects and Open Source at <a href="https://kossiitkgp.in" target="_blank">Kharagpur Open Source Society</a> (KOSS). KOSS aims at spreading the open source culture among the students of IIT Kharagpur by organising various events and conducting various workshops. <br>
+I am also an active contributor at <a href="https://metakgp.github.io" target="_blank">Metakgp</a>. It is the only open source organisation in IIT Kharagpur. It provides a platform where people with different interests come together to do some great things :). 
+</p>
+<br>You can connect with me on any of the following social links<br>
+<center>{% include social-links.html %}</center>
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -43,4 +40,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
