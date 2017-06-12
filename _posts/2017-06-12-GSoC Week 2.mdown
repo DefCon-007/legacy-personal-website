@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 2"
+layout: post
+date: 2017-06-12
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-2-87b4b5df2f69
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---
