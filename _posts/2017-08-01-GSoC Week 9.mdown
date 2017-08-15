@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 9"
+layout: post
+date: 2017-08-01
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-9-ae34e40a6a20
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

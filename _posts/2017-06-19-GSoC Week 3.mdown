@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 3"
+layout: post
+date: 2017-06-19
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-3-a38b755e48db
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

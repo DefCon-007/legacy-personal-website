@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 4"
+layout: post
+date: 2017-06-26
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-4-1aa86bbc8942
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 6"
+layout: post
+date: 2017-07-10
+mediumURL : https://medium.com/@DefCon_007/this-week-was-very-hectic-42cb7133b120
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

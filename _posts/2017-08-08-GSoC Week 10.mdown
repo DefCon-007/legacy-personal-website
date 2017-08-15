@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 10"
+layout: post
+date: 2017-08-08
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-10-f8a4e488426e
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

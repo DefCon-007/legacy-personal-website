@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 7"
+layout: post
+date: 2017-07-17
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-7-4f4cfe3e6e9f
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

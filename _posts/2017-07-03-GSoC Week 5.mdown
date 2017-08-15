@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 5"
+layout: post
+date: 2017-07-03
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-5-9b79904a3ff3
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---
