@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 11"
+layout: post
+date: 2017-08-15
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-11-68b761fa9be8
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---

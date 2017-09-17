@@ -1,0 +1,13 @@
+---
+title: "GSoC - Week 12"
+layout: post
+date: 2017-08-22
+mediumURL : https://medium.com/@DefCon_007/gsoc-week-12-bbcba64277f4
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
+- GSoC
+- OpenMRS
+category: blog
+author: defcon
+---
