@@ -4,7 +4,20 @@ layout: page
 ---
 
 	<script type="text/javascript">
-	        window.location.replace("http://c3a420e9.ngrok.io");
+		
+	
+
+	var settings = {
+  "url": "https://api.keyvalue.xyz/71826813/roomurl",
+  "method": "GET"
+ 
+};
+
+$.ajax(settings).done(function (response) {
+	window.location.replace("http://"+ response+".ngrok.io");
+});
+
+	        
 
 
 	</script>
