@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://github.com/DefCon-007/CV/blob/master/CV.pdf
+resume-local: true
+resume-url: assets/CV.pdf
 
 url: https://defcon-007.github.io
 # your url: http://USERNAME.github.io
