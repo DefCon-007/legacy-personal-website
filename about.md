@@ -4,14 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am Ayush Goyal, a third year undergraduate student of the department of <a target="_blank" href="http://www.agri.iitkgp.ernet.in">Agricultural and Food Engineering</a> at <a target="_blank" href="https://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>.</p>
+<p>Hi! I am Ayush Goyal, currently working as a Software Engineer at <a href='https://www.rippling.com' target="_blank">Rippling</a> and an alumni of <a target="_blank" href="https://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>, India graduated with B.Tech (Hons) from the department of <a target="_blank" href="http://www.agri.iitkgp.ernet.in">Agricultural and Food Engineering</a> in 2019.</p>
 
-<p>I love to get my hands dirty with python, I also enjoying making android apps and listening to music.</p>
+<p>I love to talk in Python, and currently getting my hands dirty with Dart and Flutter. I also enjoying making android apps and listening to music.</p>
 
-<p>I am also selected as <bold>Google Summer of Code - 2017</bold> student with <a target="_blank" href="http://openmrs.org">OpenMRS</a> orgaisation. I will be working on the <a href="https://summerofcode.withgoogle.com/projects/#4561348015947776" target="_blank">Android Client project</a>.</p>
+<p>I was also selected as <bold>Google Summer of Code - 2017</bold> student with <a target="_blank" href="http://openmrs.org">OpenMRS</a> organisation. I worked on the <a href="https://summerofcode.withgoogle.com/projects/#4561348015947776" target="_blank">Android Client project</a>.</p>
 
-<p>I am Executive Head - Projects and Open Source at <a href="https://kossiitkgp.in" target="_blank">Kharagpur Open Source Society</a> (KOSS). KOSS aims at spreading the open source culture among the students of IIT Kharagpur by organising various events and conducting various workshops. <br>
-I am also an active contributor at <a href="https://metakgp.github.io" target="_blank">Metakgp</a>. It is the only open source organisation in IIT Kharagpur. It provides a platform where people with different interests come together to do some great things :). 
+<p>I was Executive Head - Projects and Open Source at <a href="https://kossiitkgp.in" target="_blank">Kharagpur Open Source Society</a> (KOSS). KOSS aims at spreading the open source culture among the students of IIT Kharagpur by organising various events and conducting various workshops. <br>
+I am also an active contributor and past maintainer at <a href="https://metakgp.github.io" target="_blank">Metakgp</a>. It is the only open source organisation in IIT Kharagpur. It provides a platform where people with different interests come together to do some great things :). 
 </p>
 <br>You can connect with me on any of the following social links<br>
 <center>{% include social-links.html %}</center>
