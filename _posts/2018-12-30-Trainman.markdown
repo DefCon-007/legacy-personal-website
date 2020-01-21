@@ -1,0 +1,49 @@
+---
+title: "TrainMan"
+layout: post
+date: 2018-12-30
+tag: 
+- Python
+- Flask
+- Mobile App
+image: /assets/images/Projects/trainman.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A utility app to find alternate routes for IRCTC train bookings"
+category: project
+author: defcon
+externalLink: false
+---
+
+Trainman helps you to find alternate train bookings on the same route and train for Indian railways. 
+
+You can check it out at <http://trainman.defcon007.com/>. 
+
+Github - <https://github.com/DefCon-007/trainman>.
+
+## How it works
+Let's say your train starts at source station A and ends at destination startion F and follows the following path:
+
+A -> B -> C -> D -> E -> F
+
+Now you want to travel from B to D, but there is no ticket available. Indian trains have ticket quotas on the basis of stations. So, even if tickets from B to D are fully booked, you may get a reservation from any of the following routes in the same train :
+
+A->D
+A->E
+A->F
+.
+.
+.
+
+TrainMan lists availabitily on these kind of alternate routes to make your journey hassel free.
+
+***
+
+## Screeshots
+<img src = "https://user-images.githubusercontent.com/16754547/72354309-8e500c00-370b-11ea-96fb-7fe63245933b.png" height="600">
+
+<img src = "https://user-images.githubusercontent.com/16754547/72354412-b9d2f680-370b-11ea-9fb3-57ac8ccd6bf3.png" height="600">
+
+
+---
