@@ -1,0 +1,51 @@
+---
+title: "Histrock"
+layout: post
+date: 2018-12-30
+tag: 
+- Python
+- Django
+- Hackathon
+image: /assets/images/Projects/histrock.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A historical stock analysis webapp"
+category: project
+author: defcon
+externalLink: false
+---
+
+Histrock was made as a submission for Societe Generale Brainwaves 2019 hackathon. It is a django application for historic stock data analysis along with real-time stock charts and economic calender.
+
+The project made it to the all India finals from the **10,200+ applicants**.
+
+Github - <https://github.com/DefCon-007/histrock>.
+
+## Features
+
+- Check historical stock trend analysis on responsive charts which can be exported as png.
+
+- Realtime economic calender displaying latest events.
+
+- Automatically selects oldest or most records if start or end date not given.
+
+- Realtime stock chart.
+
+- Easy-to-implement REST API.
+
+***
+
+## Demonstration
+
+Click on the below image to watch a short video demonstration. 
+
+[![Histrock Video Demonstration](http://img.youtube.com/vi/GxMvHH_aJm0/0.jpg)](http://www.youtube.com/watch?v=GxMvHH_aJm0 "Histrock ")
+
+## Screeshots
+
+<img src = "https://camo.githubusercontent.com/20340c12f52c642c6b41afa7b75ad0195fc9fa73/68747470733a2f2f692e696d6775722e636f6d2f41754b4d4c4b43672e706e67" height="600">
+
+<img src = "https://camo.githubusercontent.com/8e2b239cc6af5967ff359f30fe648570cb0b93df/68747470733a2f2f692e696d6775722e636f6d2f3974504b54336c2e706e67" height="600">
+
+---
