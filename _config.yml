@@ -3,7 +3,7 @@ name: Ayush Goyal
 bio: Eat | Sleep | Code | Repeat ....
 
 # twitter summary info
-description: Programming | Open Source | Eating 
+description: Programming | Open Source | Eating
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,12 +17,11 @@ resume-local: true
 resume-url: assets/CV.pdf
 
 url: https://defcon-007.github.io
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-100557649-1'
+analytics-google: "UA-100557649-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -30,8 +29,8 @@ analytics-google: 'UA-100557649-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: defcon007 # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+    shortname: defcon007 # enter this from your disqus account
+    categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: ayushgoyal.iitkgp
@@ -54,7 +53,7 @@ email: ayushgoyal.iitkgp@gmail.com
 authors:
     defcon:
         name: Ayush Goyal
-        bio: A usual guy with unusual dreams. 
+        bio: A usual guy with unusual dreams.
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
@@ -100,10 +99,10 @@ show-author: true
 animation: true
 
 gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
 
 jekyll-mentions:
     base_url: https://github.com

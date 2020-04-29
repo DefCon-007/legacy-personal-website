@@ -30,21 +30,21 @@ Utilo is a one stop solution to a number of problems we face in day to day life.
 ## Screeshots
 
 ### Using youtube search 
-![demo](http://i.imgur.com/WhZqPiq.gif)
+![demo](https://i.imgur.com/WhZqPiq.gif)
 
 ### Using youtube download
-<img src = "http://i.imgur.com/BzHMyp8.png" height="600" width="374">
+<img src = "https://i.imgur.com/BzHMyp8.png" height="600" width="374">
 
 ### Using file link generators
-<img src = "http://i.imgur.com/rxXnQ47.png" height="600" width="374">
-<img src = "http://i.imgur.com/33et3QM.png" height="600" width="374">
-<img src = "http://i.imgur.com/PxuyCJe.png" height="600" width="374">
+<img src = "https://i.imgur.com/rxXnQ47.png" height="600" width="374">
+<img src = "https://i.imgur.com/33et3QM.png" height="600" width="374">
+<img src = "https://i.imgur.com/PxuyCJe.png" height="600" width="374">
 
 ### Getting Jokes 
-<img src = "http://i.imgur.com/SjcsCQz.png" height="600" width="374">
+<img src = "https://i.imgur.com/SjcsCQz.png" height="600" width="374">
 
 ### Sending Mail 
-<img src = "http://i.imgur.com/lBUXNIF.png" height="600" width="374">
+<img src = "https://i.imgur.com/lBUXNIF.png" height="600" width="374">
 
 ---
 

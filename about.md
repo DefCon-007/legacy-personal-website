@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am Ayush Goyal, currently working as a Software Engineer at <a href='https://www.rippling.com' target="_blank">Rippling</a> and an alumni of <a target="_blank" href="https://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>, India graduated with B.Tech (Hons) from the department of <a target="_blank" href="http://www.agri.iitkgp.ernet.in">Agricultural and Food Engineering</a> in 2019.</p>
+<p>Hi! I am Ayush Goyal, currently working as a Software Engineer at <a href='https://www.rippling.com' target="_blank">Rippling</a> and an alumni of <a target="_blank" href="https://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>, India graduated with B.Tech (Hons) from the department of <a target="_blank" href="https://www.agri.iitkgp.ernet.in">Agricultural and Food Engineering</a> in 2019.</p>
 
 <p>I love to talk in Python, and currently getting my hands dirty with Dart and Flutter. I also enjoying making android apps and listening to music.</p>
 
-<p>I was selected as <bold>Google Summer of Code - 2017</bold> student with <a target="_blank" href="http://openmrs.org">OpenMRS</a> organisation where I worked on its <a href="https://summerofcode.withgoogle.com/projects/#4561348015947776" target="_blank">Android Client project</a>.</p>
+<p>I was selected as <bold>Google Summer of Code - 2017</bold> student with <a target="_blank" href="https://openmrs.org">OpenMRS</a> organisation where I worked on its <a href="https://summerofcode.withgoogle.com/projects/#4561348015947776" target="_blank">Android Client project</a>.</p>
 
 <p>I am an avid coin collector and currently posses almost 390 different types of coins from across the world. </p>
 

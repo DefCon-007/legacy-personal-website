@@ -18,7 +18,7 @@ externalLink: false
 
 Trainman helps you to find alternate train bookings on the same route and train for Indian railways. 
 
-You can check it out at <http://trainman.defcon007.com/>. 
+You can check it out at <https://trainman.defcon007.com/>. 
 
 Github - <https://github.com/DefCon-007/trainman>.
 

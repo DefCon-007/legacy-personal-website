@@ -3,23 +3,21 @@ title: Room
 layout: page
 ---
 
-	<script type="text/javascript">
-		
-	
+<script type="text/javascript">
+
+
 
 	var settings = {
-  "url": "https://api.keyvalue.xyz/3b2b5f71/roomurl",
-  "method": "GET"
- 
-};
+		"url": "https://api.keyvalue.xyz/3b2b5f71/roomurl",
+		"method": "GET"
 
-$.ajax(settings).done(function (response) {
-	window.location.replace("http://"+ response+".ngrok.io");
-});
+	};
 
-	        
+	$.ajax(settings).done(function (response) {
+		window.location.replace("https://" + response + ".ngrok.io");
+	});
 
 
-	</script>
 
-	
+
+</script>
