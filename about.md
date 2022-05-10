@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am Ayush Goyal, currently working as a Software Engineer at <a href='https://www.rippling.com' target="_blank">Rippling</a> and an alumni of <a target="_blank" href="https://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>, India graduated with B.Tech (Hons) from the department of <a target="_blank" href="https://www.agri.iitkgp.ernet.in">Agricultural and Food Engineering</a> in 2019.</p>
+<p>Hi! I am Ayush Goyal, currently working as a Software Engineer - II at <a href='https://www.postman.com' target="_blank">Postman</a> and an alumni of <a target="_blank" href="https://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>, India graduated with B.Tech (Hons) from the department of <a target="_blank" href="https://www.agri.iitkgp.ernet.in">Agricultural and Food Engineering</a> in 2019.</p>
 
 <p>I love to talk in Python, and currently getting my hands dirty with Dart and Flutter. I also enjoying making android apps and listening to music.</p>
 
