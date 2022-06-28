@@ -16,7 +16,7 @@ resume: true
 resume-local: true
 resume-url: assets/CV.pdf
 
-url: https://defcon007.com
+url: https://legacy.defcon007.com
 
 permalink: /:title/
 
